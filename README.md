@@ -41,3 +41,9 @@ dotnet build zh-CN\BossChecklist.zh-CN.csproj -c Release -p:DeployMod=true   # �
 - 界面布局、配色和贴图照着 tModLoader 版 Boss Checklist 复刻，`assets/*.rawimg` 取自原模组，公开分发前建议先确认原模组的授权方式
 - 两个语言版模组 id 相同（`boss-checklist`），属于同一模组的两个语言包，不能同时安装
 - 数据（已击败标记、隐藏 / 标记的条目、纪录、已获得过的掉落）存在 `mods\boss-checklist\data\boss-checklist.txt`
+
+## 来源
+
+- 本模组是 tModLoader 版 Boss Checklist 的移植版（原模组：https://github.com/JavidPack/BossChecklist ），
+  界面布局、贴图与行为尽量对齐原模组，运行环境改为 TerrariaModder 框架
+- 原模组仓库没有附带 LICENSE 文件，公开分发前建议先与原作者确认授权
