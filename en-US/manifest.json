@@ -1,0 +1,8 @@
+{
+  "id": "boss-checklist",
+  "name": "Boss Checklist",
+  "version": "1.0.0",
+  "author": "TerrariaModder",
+  "description": "A checklist of every boss, mini-boss and event with spawn info, loot tables and records.",
+  "entry_dll": "BossChecklist.dll"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "boss-checklist",
+  "name": "Boss Checklist",
+  "version": "1.0.0",
+  "author": "TerrariaModder",
+  "description": "Boss、小Boss和事件的清单，包含召唤方式、战利品表和战斗记录。",
+  "entry_dll": "BossChecklist.dll"
+}
